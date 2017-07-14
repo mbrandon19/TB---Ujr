@@ -29,12 +29,13 @@
 |Nome  |Link  |  
 |---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
+|Sense Hat  |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  | 
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Python  |[Ver aqui](https://www.python.org/)  |  
 
 
 ***  
