@@ -1,8 +1,8 @@
 #Hackathon Ideias Inteligente  
 
-### Nome...
+### TB
 
-   Descrição...
+   Agenda que adiciona o nº de eventos pretendidos pelo utilizador, com um alarme incluido.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,16 +10,19 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Alexandre Costa  |[Email](mailto:alexandrecosta400@gmail.com)  |  
+|Luísa Araújo |[Email](mailto:lmpa.pt@gmail.com)  |  
+|Lucas Correia  |[Email](mailto:lucasaacorreia@gmail.com)  |  
+|Márcio Brandão |[Email](mailto:marciofranciscobrandao@hotmail.com)  |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar o scheduler.py
+2. Abrir o ficheiro
+3. Correr o ficheiro
+4. Inserir o número de eventos
+5. Preencher os campos necessarios
+6. Com o joystick, alternar entre eventos e com o clique do meio, expandir o evento e ativar o alarme
 
 #### Hardware  
 
